@@ -12,7 +12,7 @@ const CodingClubPage = () => {
         Navigate('/blog')
     }
   return (
-    <div className="  min-h-screen   p-8 md:p-12 font-sans text-gray-800 overflow-hidden" style={{ backgroundColor: '#DDF6D2' }}>
+    <div className="  min-h-screen  md:p-12 font-sans text-gray-800 overflow-hidden" style={{ backgroundColor: '#DDF6D2' }}>
       {/* bg-color:bg-gradient-to-br from-blue-300 to-gray-300 */}
       <section className="bg-gray-200 grid  md:grid-cols-2 gap-6 text-left mb-10  rounded-2xl shadow-lg p-6 md:p-10">
        <div className="">
